@@ -1,0 +1,12 @@
+/backend/vendor/
+/frontend/node_modules/
+/backend/.env
+/frontend/.env
+
+# build artifacts
+/frontend/dist/
+/backend/public/storage
+
+# IDE
+/.idea
+/node_modules
